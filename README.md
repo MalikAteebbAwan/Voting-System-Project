@@ -1,1 +1,2 @@
 # Voting-System-Project
+The Online Voting System is a command-line application designed to simulate a secure and user-friendly election process. It allows user registration, login authentication, and ensures one-person-one-vote integrity. Admins can add candidates and view voting results in real-time. Votes are recorded and stored during runtime with basic input validation. Ideal for learning about control structures, OOP concepts, and simple data security in C++.
